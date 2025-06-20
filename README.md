@@ -1,5 +1,9 @@
 # Indian Suicide Analysis
 
+![GitHub License](https://img.shields.io/github/license/adionmission/Indian-Suicide-Analysis)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Indian-Suicide-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Indian-Suicide-Analysis)
+
 Analysis of suicides in India from year 2001 to 2012.
 
 ## Tech Stack

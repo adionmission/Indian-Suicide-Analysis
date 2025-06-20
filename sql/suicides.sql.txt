@@ -1,0 +1,17 @@
+SELECT * FROM Public."Suicides"
+
+SELECT DISTINCT(state) FROM Public."Suicides" ORDER BY state ASC
+
+SELECT DISTINCT(year) FROM Public."Suicides"
+
+SELECT DISTINCT(type_code) FROM Public."Suicides"
+
+SELECT DISTINCT(type) FROM Public."Suicides"
+
+SELECT COUNT(*) FROM Public."Suicides" WHERE type ='Not having Children (Barrenness/Impotency'
+
+SELECT DISTINCT(gender) FROM Public."Suicides"
+
+SELECT DISTINCT(age_group) FROM Public."Suicides" ORDER BY age_group ASC
+
+SELECT DISTINCT(total) FROM Public."Suicides"
